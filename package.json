@@ -1,12 +1,9 @@
 {
     "private": true,
     "type": "module",
-// ビルド情報を更新
     "scripts": {
         "dev": "vite",
         "build": "vite build --mode production"
-},
-
     },
     "devDependencies": {
         "@tailwindcss/forms": "^0.5.2",
